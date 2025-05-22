@@ -1,4 +1,4 @@
-# 🧼 Introduction to Clean Code (Based on Scrimba Course)
+# 🧼 Introduction to Clean Code
 
 This document summarizes the core principles of writing clean, maintainable JavaScript code without using any frameworks. It’s especially tailored for front-end developers working with **Vanilla JS**.
 
